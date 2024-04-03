@@ -4,6 +4,9 @@ project "GLFW"
 	staticruntime "on"
 	warnings "off"
 
+	outputdir = "%{cfg.buildcfg}-%{cfg.system}-%{cfg.architecture}"
+
+
 	targetdir ("Binaries/" .. outputdir .. "/%{prj.name}")
 	objdir ("Intermediates/" .. outputdir .. "/%{prj.name}")
 
