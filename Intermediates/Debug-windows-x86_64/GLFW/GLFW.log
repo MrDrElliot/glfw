@@ -1,31 +1,31 @@
 ﻿cl : command line  warning D9025: overriding '/MTd' with '/MDd'
 cl : command line  warning D9025: overriding '/MTd' with '/MDd'
 cl : command line  warning D9025: overriding '/MTd' with '/MDd'
-cl : command line  warning D9025: overriding '/MTd' with '/MDd'
   context.c
   egl_context.c
+cl : command line  warning D9025: overriding '/MTd' with '/MDd'
 cl : command line  warning D9025: overriding '/MTd' with '/MDd'
   init.c
 cl : command line  warning D9025: overriding '/MTd' with '/MDd'
 cl : command line  warning D9025: overriding '/MTd' with '/MDd'
+cl : command line  warning D9025: overriding '/MTd' with '/MDd'
+cl : command line  warning D9025: overriding '/MTd' with '/MDd'
+cl : command line  warning D9025: overriding '/MTd' with '/MDd'
   input.c
+cl : command line  warning D9025: overriding '/MTd' with '/MDd'
   monitor.c
-cl : command line  warning D9025: overriding '/MTd' with '/MDd'
-cl : command line  warning D9025: overriding '/MTd' with '/MDd'
-cl : command line  warning D9025: overriding '/MTd' with '/MDd'
   null_init.c
   null_joystick.c
   null_monitor.c
-cl : command line  warning D9025: overriding '/MTd' with '/MDd'
-cl : command line  warning D9025: overriding '/MTd' with '/MDd'
-cl : command line  warning D9025: overriding '/MTd' with '/MDd'
-cl : command line  warning D9025: overriding '/MTd' with '/MDd'
-cl : command line  warning D9025: overriding '/MTd' with '/MDd'
-cl : command line  warning D9025: overriding '/MTd' with '/MDd'
-cl : command line  warning D9025: overriding '/MTd' with '/MDd'
-cl : command line  warning D9025: overriding '/MTd' with '/MDd'
-cl : command line  warning D9025: overriding '/MTd' with '/MDd'
   null_window.c
+cl : command line  warning D9025: overriding '/MTd' with '/MDd'
+cl : command line  warning D9025: overriding '/MTd' with '/MDd'
+cl : command line  warning D9025: overriding '/MTd' with '/MDd'
+cl : command line  warning D9025: overriding '/MTd' with '/MDd'
+cl : command line  warning D9025: overriding '/MTd' with '/MDd'
+cl : command line  warning D9025: overriding '/MTd' with '/MDd'
+cl : command line  warning D9025: overriding '/MTd' with '/MDd'
+cl : command line  warning D9025: overriding '/MTd' with '/MDd'
 cl : command line  warning D9025: overriding '/MTd' with '/MDd'
 cl : command line  warning D9025: overriding '/MTd' with '/MDd'
 cl : command line  warning D9025: overriding '/MTd' with '/MDd'
